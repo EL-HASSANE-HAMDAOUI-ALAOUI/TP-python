@@ -1,2 +1,2 @@
-def conversion_temps(h, m, s):
-    return h * 3600 + m * 60 + s
+def conversion_temps(h, min, s):
+    return h * 3600 + min * 60 + s
